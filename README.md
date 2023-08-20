@@ -7,9 +7,6 @@
 
 - 📫 Cómo contactarme **juancarlosmartosvergara@gmail.com**
 
-<h3 align= "left">Conéctese conmigo:</h3>
-<p align="left">
+<h3 align= "izquierda">Conéctate conmigo:</h3>
+<p align="izquierda">
 </p>
-
-<h3 align="left">Idiomas y herramientas:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" ancho="40" altura="40"/> </a> </p>
