@@ -13,4 +13,3 @@
   <br><br>
   Nos vemos!
 </h3>
-ESP._CV_Juan_Carlos_Martos_Vergara.pdf.pdf
