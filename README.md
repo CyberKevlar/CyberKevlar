@@ -1,6 +1,5 @@
-<img src="bannerv2.gif" align="left"/>
+<img src="banner.gif" align="left"/>
 
-# Hola, soy Juan Carlos 👋  
 📍 España | 💻 Desarrollador de software | 🚀 Apasionado por la tecnología
 
 ## 🛠️ Tecnologías y Habilidades  
