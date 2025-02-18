@@ -1,4 +1,4 @@
-<img src="codding.gif" align="left" width="200"/>
+<img src="codding.gif" align="left"/>
 
 # Hola, soy Juan Carlos 👋  
 📍 España | 💻 Desarrollador de software | 🚀 Apasionado por la tecnología
