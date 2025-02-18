@@ -17,16 +17,17 @@
   <img src="https://github.com/user-attachments/assets/1abe6c77-099e-4283-b783-83d91bccf6f1" width="42" height="42">
 </div>
 
-## Proyectos Destacados
-- 🎮 [Juego en Godot](https://tetsuhi.itch.io/unasombraenelpolo) - Un juego creado en 48h en la MálagaJam 2024.
-- 🌐 [Servidor web en C](https://github.com/TU_REPO) - Implementación de un servidor HTTP desde cero.
+## Mis proyectos más interesantes
+- 🎮 [Juego en Unity](https://tetsuhi.itch.io/croakscape) - Un juego creado en 48h en la MálagaJam 2025 edición 19.
+- 🎮 [Juego en Godot](https://tetsuhi.itch.io/unasombraenelpolo) - Un juego creado en 48h en la MálagaJam 2024 edición 18.
+- 🌐 [Servidor web en C](https://github.com/BigKevlar/42_Cursus/tree/master/017_webserv) - Implementación de un servidor HTTP escrito en C.
 
-## 📊 Mis estadísticas
+## Mis estadísticas
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical">
 </div>
 
-## 🔗 Contacta conmigo a través de...
+## Contacta conmigo a través de...
 <div align="center">
   <a href="https://www.linkedin.com/in/juan-carlos-martos-vergara/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
