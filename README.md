@@ -32,6 +32,7 @@
   <p>🎮 <a href="https://noa42.itch.io/croakscape">Juego en Unity</a> - Un juego creado en 48h en la MálagaJam 2025 edición 19.</p>
   <p>🎮 <a href="https://tetsuhi.itch.io/unasombraenelpolo">Juego en Godot</a> - Un juego creado en 48h en la MálagaJam 2024 edición 18.</p>
   <p>🌐 <a href="https://github.com/BigKevlar/42_Cursus/tree/master/017_webserv">Servidor web en C</a> - Implementación de un servidor HTTP escrito en C.</p>
+  <p>🖥️​ <a href="https://github.com/CyberKevlar/42_Cursus/tree/master/010_minishell">Minishell en C</a> - Implementación de una miniterminal de bash escrita en C.</p>
 </div>
 
 ## Mis estadísticas
