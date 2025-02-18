@@ -2,8 +2,7 @@
 
 💻 Software Developer | 🎮​ Apasionado por el Game Developer
 
-![42](https://emoji.slack-edge.com/T039P7U66/42/5f8a11475c4d44a7.jpg)42 Student
-
+<img src="https://emoji.slack-edge.com/T039P7U66/42/5f8a11475c4d44a7.jpg" width="20" height="20"> 42 Student
 
 🛠️ ¿Que tecnologías domino?  
 ![C](https://github.com/user-attachments/assets/20176160-03b6-4d55-b038-0cba263e1da8)
