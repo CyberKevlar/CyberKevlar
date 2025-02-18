@@ -3,8 +3,7 @@
 💻 Desarrollador de software | 🎮​ Apasionado por el Game Developer
 
 🛠️ ¿Que tecnologías domino?  
-<img src="![C](https://github.com/user-attachments/assets/989b9938-abe0-4a56-bbfb-8bd787477fef)" hight="50px" weidht="50px"/>.
-![C](https://github.com/user-attachments/assets/989b9938-abe0-4a56-bbfb-8bd787477fef)
+![C](https://github.com/user-attachments/assets/20176160-03b6-4d55-b038-0cba263e1da8)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
