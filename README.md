@@ -1,4 +1,4 @@
-<img src="banner.gif" align="left"/>
+ <img src="banner.gif" align="left"/>
 
 <div align="center">
   <h2><strong>Software Developer || Apasionado por el Game Developer</strong></h2>
@@ -19,6 +19,11 @@
   <img src="https://github.com/user-attachments/assets/435e0d84-31de-458e-944b-19f8b1a36cdf" width="42" height="42">
   <img src="https://github.com/user-attachments/assets/e25ac33d-a221-4dc4-9aef-3fb73dcf4a6c" width="42" height="42">
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="42" height="42">
+</div>
+
+## ¿Que aprenderé proximamente?  
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/ba87cf04-ac47-415b-9930-65b55b5ed3cc" width="42" height="42">
 </div>
 
 ## Mis proyectos más interesantes (de momento)
