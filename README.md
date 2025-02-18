@@ -12,6 +12,10 @@
   <img src="https://github.com/user-attachments/assets/5001c45f-ad1f-4cac-bf3f-512ccc995d5b" width="42" height="42">
   <img src="https://github.com/user-attachments/assets/045277f9-3df7-479b-bb72-8dafd8872e62" width="42" height="42">
   <img src="https://github.com/user-attachments/assets/103aebe8-3028-40d6-80f8-9e097f6a624b" width="42" height="42">
+</div>
+
+## ¿Cuales estoy aprendiendo ahora mismo?  
+<div align="left">
   <img src="https://github.com/user-attachments/assets/435e0d84-31de-458e-944b-19f8b1a36cdf" width="42" height="42">
   <img src="https://github.com/user-attachments/assets/e25ac33d-a221-4dc4-9aef-3fb73dcf4a6c" width="42" height="42">
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="42" height="42">
