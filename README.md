@@ -24,8 +24,8 @@
 
 ## Mis estadísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigKevlar&layout=compact&langs_count=6&theme=radical">
-  <img src="https://github-readme-stats.vercel.app/api?username=BigKevlar&show_icons=true&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigKevlar&layout=compact&langs_count=6&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BigKevlar&show_icons=true&theme=radical">
 </div>
 
 ## Contacta conmigo a través de...
