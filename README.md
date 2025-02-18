@@ -44,7 +44,7 @@
 ## Conóceme!!!
 <div align="left">
   <a href="https://github.com/CyberKevlar/CyberKevlar/blob/main/2025_CV-IT_Juan_Carlos_Martos_Vergara.pdf">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://github.com/user-attachments/assets/f3e3112b-fa0c-41c0-a173-679d11d79c97">
   </a>
   <a href="https://www.linkedin.com/in/juan-carlos-martos-vergara/">
     <img src="https://github.com/user-attachments/assets/1f4c7213-6742-45ba-81c7-d0a4a5123cd3">
