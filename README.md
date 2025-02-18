@@ -14,10 +14,12 @@
   <img src="https://github.com/user-attachments/assets/103aebe8-3028-40d6-80f8-9e097f6a624b" width="42" height="42">
 </div>
 
-## Mis proyectos más interesantes
-<div align="center">- 🎮 [Juego en Unity](https://noa42.itch.io/croakscape) - Un juego creado en 48h en la MálagaJam 2025 edición 19.</div>
-<div align="center">- 🎮 [Juego en Godot](https://tetsuhi.itch.io/unasombraenelpolo) - Un juego creado en 48h en la MálagaJam 2024 edición 18.</div>
-<div align="center">- 🌐 [Servidor web en C](https://github.com/BigKevlar/42_Cursus/tree/master/017_webserv) - Implementación de un servidor HTTP escrito en C.</div>
+## Mis proyectos más interesantes (de momento)
+<div align="center">
+  🎮 [Juego en Unity](https://noa42.itch.io/croakscape) - Un juego creado en 48h en la MálagaJam 2025 edición 19.  
+  🎮 [Juego en Godot](https://tetsuhi.itch.io/unasombraenelpolo) - Un juego creado en 48h en la MálagaJam 2024 edición 18.  
+  🌐 [Servidor web en C](https://github.com/BigKevlar/42_Cursus/tree/master/017_webserv) - Implementación de un servidor HTTP escrito en C.  
+</div>
 
 ## Mis estadísticas
 <div align="center">
