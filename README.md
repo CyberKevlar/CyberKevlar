@@ -1,4 +1,4 @@
-<img src="bannerv3.gif" align="left"/>
+<img src="banner.gif" align="left"/>
 
 <div align="center">
   <h2><strong>Software Developer || Apasionado por el Game Developer</strong></h2>
