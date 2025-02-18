@@ -29,7 +29,7 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BigKevlar&theme=radical">
 </div>
 <div align="center">
-  <img height="350em" src="https://github-readme-activity-graph.vercel.app/graph?username=BigKevlar&theme=radical)](https://github.com/BigKevlar)">
+  <img height="250em" src="https://github-readme-activity-graph.vercel.app/graph?username=BigKevlar&theme=radical)](https://github.com/BigKevlar)">
 </div>
 
 
