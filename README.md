@@ -15,9 +15,11 @@
 </div>
 
 ## Mis proyectos más interesantes
-- 🎮 [Juego en Unity](https://noa42.itch.io/croakscape) - Un juego creado en 48h en la MálagaJam 2025 edición 19.
-- 🎮 [Juego en Godot](https://tetsuhi.itch.io/unasombraenelpolo) - Un juego creado en 48h en la MálagaJam 2024 edición 18.
-- 🌐 [Servidor web en C](https://github.com/BigKevlar/42_Cursus/tree/master/017_webserv) - Implementación de un servidor HTTP escrito en C.
+<div align="center">
+  - 🎮 [Juego en Unity](https://noa42.itch.io/croakscape) - Un juego creado en 48h en la MálagaJam 2025 edición 19.
+  - 🎮 [Juego en Godot](https://tetsuhi.itch.io/unasombraenelpolo) - Un juego creado en 48h en la MálagaJam 2024 edición 18.
+  - 🌐 [Servidor web en C](https://github.com/BigKevlar/42_Cursus/tree/master/017_webserv) - Implementación de un servidor HTTP escrito en C.
+</div>
 
 ## Mis estadísticas
 <div align="center">
