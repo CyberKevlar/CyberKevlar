@@ -1,12 +1,15 @@
 <img src="bannerv3.gif" align="left"/>
 
-💻 Desarrollador de software | 🎮​ Apasionado por el Game Developer
+💻 Software Developer | 🎮​ Apasionado por el Game Developer
+
+![42](https://emoji.slack-edge.com/T039P7U66/42/5f8a11475c4d44a7.jpg)42 Student
+
 
 🛠️ ¿Que tecnologías domino?  
 ![C](https://github.com/user-attachments/assets/20176160-03b6-4d55-b038-0cba263e1da8)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![C++](https://github.com/user-attachments/assets/5001c45f-ad1f-4cac-bf3f-512ccc995d5b)
+![Docker](https://github.com/user-attachments/assets/045277f9-3df7-479b-bb72-8dafd8872e62)
+![Git](https://github.com/user-attachments/assets/1abe6c77-099e-4283-b783-83d91bccf6f1)
 
 ## 🚀 Proyectos Destacados
 - 🎮 [Juego en Godot](https://tetsuhi.itch.io/unasombraenelpolo) - Un juego creado en 48h en la MálagaJam 2024.
