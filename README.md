@@ -12,6 +12,7 @@
   <img src="https://github.com/user-attachments/assets/5001c45f-ad1f-4cac-bf3f-512ccc995d5b" width="42" height="42">
   <img src="https://github.com/user-attachments/assets/045277f9-3df7-479b-bb72-8dafd8872e62" width="42" height="42">
   <img src="https://github.com/user-attachments/assets/103aebe8-3028-40d6-80f8-9e097f6a624b" width="42" height="42">
+  <img src="https://banner2.cleanpng.com/20180820/rik/f40ee6322bba6ef1100a5adb0fe196d6.webp" width="42" height="42">
 </div>
 
 ## Mis proyectos más interesantes (de momento)
