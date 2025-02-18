@@ -24,9 +24,9 @@
 
 ## Mis estadísticas
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigKevlar&layout=compact&langs_count=6&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BigKevlar&show_icons=true&theme=radical">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BigKevlar&theme=radical">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigKevlar&layout=compact&langs_count=6&theme=radical">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BigKevlar&show_icons=true&theme=radical">
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=BigKevlar&theme=radical">
 </div>
 <div align="center">
   <img height="250em" src="https://github-readme-activity-graph.vercel.app/graph?username=BigKevlar&theme=radical)](https://github.com/BigKevlar)">
