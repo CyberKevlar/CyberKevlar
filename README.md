@@ -1,4 +1,4 @@
-<img src="banner.gif" align="left"/>
+<img src="bannerv2.gif" align="left"/>
 
 📍 España | 💻 Desarrollador de software | 🚀 Apasionado por la tecnología
 
