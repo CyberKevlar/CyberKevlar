@@ -2,7 +2,7 @@
 
 Software Developer || Apasionado por el Game Developer
 
-<img src="https://emoji.slack-edge.com/T039P7U66/42/5f8a11475c4d44a7.jpg" width="42" height="42" text-aling="center"> 42 Student
+<img src="https://emoji.slack-edge.com/T039P7U66/42/5f8a11475c4d44a7.jpg" width="42" height="42" text-aling="center"> Estudiante de 42 Málaga
 
 ## ¿Qué tecnologías domino?  
 <img src="https://github.com/user-attachments/assets/20176160-03b6-4d55-b038-0cba263e1da8" width="42" height="42">
