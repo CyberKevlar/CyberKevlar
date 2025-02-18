@@ -1,15 +1,20 @@
-<img 
-  src="codding.gif"
-  align="left"
-/>
-<h3 align="center">
-  Hola mundo!
-  <br>
-  Bienvenido a mi perfil. Me llamo Juan Carlos, un placer conocerte!
-  <hr>
-  Soy un chico español amante del mundo de la tecnología, el desarrollo de software y hardware.
-  <br><br>
-  Si quieres conocer mis <b>"HABILIDADES"</b> (CV) puedes conocerlas en mi <a href="2025_IT-CV_Juan_Carlos_Martos_Vergara.pdf" target="_blank">"CV tecnologico"</a>. Tambien puedes saber como he llegado hasta donde estoy viendo mi experiencia general en mi <a href="2024_CV_Juan_Carlos_Martos_Vergara.pdf" target="_blank">"CV madre"</a>.
-  <br><br>
-  Nos vemos!
-</h3>
+<img src="banner.gif" align="left"/>
+
+# Hola, soy Juan Carlos 👋  
+📍 España | 💻 Desarrollador de software | 🚀 Apasionado por la tecnología
+
+## 🛠️ Tecnologías y Habilidades  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 🚀 Proyectos Destacados
+- 🎮 [Juego en Godot](https://tetsuhi.itch.io/unasombraenelpolo) - Un juego creado en 48h en la MálagaJam 2024.
+- 🌐 [Servidor web en C](https://github.com/TU_REPO) - Implementación de un servidor HTTP desde cero.
+
+## 📊 Estadísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+
+## 🔗 Conéctate conmigo  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_PERFIL/)
