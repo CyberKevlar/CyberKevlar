@@ -1,4 +1,4 @@
-<img src="banner.gif" align="left"/>
+<img src="banner.gif" align="center"/>
 
 # Hola, soy Juan Carlos 👋  
 📍 España | 💻 Desarrollador de software | 🚀 Apasionado por la tecnología
