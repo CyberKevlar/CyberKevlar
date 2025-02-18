@@ -11,7 +11,7 @@
   <img src="https://github.com/user-attachments/assets/20176160-03b6-4d55-b038-0cba263e1da8" width="42" height="42">
   <img src="https://github.com/user-attachments/assets/5001c45f-ad1f-4cac-bf3f-512ccc995d5b" width="42" height="42">
   <img src="https://github.com/user-attachments/assets/045277f9-3df7-479b-bb72-8dafd8872e62" width="42" height="42">
-  <img src="https://github.com/user-attachments/assets/43644b3d-0164-4b8d-9221-10a7d0079596" width="42" height="42">
+  <img src="https://github.com/user-attachments/assets/43f10cb6-c3dd-4465-8ac8-7f13bc3b9065" width="42" height="42">
 </div>
 
 ## Mis proyectos más interesantes
