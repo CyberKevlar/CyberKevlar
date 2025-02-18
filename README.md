@@ -1,9 +1,9 @@
 <img src="bannerv3.gif" align="left"/>
 
-📍 España | 💻 Desarrollador de software | 🚀 Apasionado por la tecnología
+💻 Desarrollador de software | 🎮​ Apasionado por el Game Developer
 
-## 🛠️ Tecnologías y Habilidades  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+🛠️ ¿Que tecnologías domino?  
+![C](![image](https://github.com/user-attachments/assets/989b9938-abe0-4a56-bbfb-8bd787477fef))
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
