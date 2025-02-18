@@ -1,4 +1,5 @@
-# Hola, soy Juan Carlos 👋  
+<img src="banner.gif" align="center"/>
+
 📍 España | 💻 Desarrollador de software | 🚀 Apasionado por la tecnología
 
 ## 🛠️ Tecnologías y Habilidades  
