@@ -1,8 +1,7 @@
  <img src="banner.gif" align="left"/>
 
 <div align="center">
-  <h2><strong>IT Support Specialist || Software Developer</strong></h2>
-  <h2><strong>Entusiasta por el diseño de videojuegos</strong></h2>
+  <h2><strong>IT Support Specialist || Software Developer || Entusiasta por el diseño de videojuegos</strong></h2>
   <img src="https://emoji.slack-edge.com/T039P7U66/42/5f8a11475c4d44a7.jpg" width="42" height="42"> 
   <strong>Estudiante de 42 Málaga</strong>
 </div>
