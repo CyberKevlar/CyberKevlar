@@ -46,7 +46,10 @@
 
 ## Conóceme!!!
 <div align="left">
-  <a href="https://github.com/CyberKevlar/CyberKevlar/blob/main/2025_CV-IT_Juan_Carlos_Martos_Vergara.pdf">
+  <a href="https://github.com/CyberKevlar/CyberKevlar/blob/main/2025_CV-IT-ATS_Juan_Carlos_Martos_Vergara.pdf">
+    <img src="https://github.com/user-attachments/assets/3da82648-d96b-4a01-9b94-beae067748c3">
+  </a>
+ <a href="https://github.com/CyberKevlar/CyberKevlar/blob/main/2025_CV-IT_Juan_Carlos_Martos_Vergara.pdf">
     <img src="https://github.com/user-attachments/assets/1f4c7213-6742-45ba-81c7-d0a4a5123cd3">
   </a>
   <a href="https://www.linkedin.com/in/juan-carlos-martos-vergara/">
